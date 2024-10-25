@@ -3,7 +3,7 @@
 
 }
 body{
-    font-family:"Cera Pro";
+    font-family: "Cera Pro";
     font-weight:400 ;
     font-style: normal;
     padding: 0;
@@ -33,7 +33,7 @@ height: 775px;
 max-width:310px;
 width: 100%;
 background: #FBFBFB;
-margin-top: 170px;
+margin-top: 100px;
 margin-left:130px;
 
 }
@@ -115,7 +115,7 @@ color: #46A358;
 width:835px;
 height:1200px;
 float: right;
-margin-top: 170px; 
+margin-top: 100px; 
 margin-left: 50px;
 margin-right: 102px;
 
